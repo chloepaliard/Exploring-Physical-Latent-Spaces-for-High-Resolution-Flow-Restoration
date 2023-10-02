@@ -105,9 +105,6 @@ To install requirements:
 
 ## Evaluation
 
-Please download - and copy into the *code* folder - the *data* and *trained_models* folders from this link: https://drive.google.com/file/d/1Iwlsxo4mmTQe_tKbVyWKmjjjThOLKAK_/view?usp=sharing
-
-
 To generate the inferences of each model, run the following python scripts from the *code* folder:
 
 ```eval
