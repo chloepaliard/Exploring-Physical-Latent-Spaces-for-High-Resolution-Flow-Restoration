@@ -2,6 +2,8 @@
 
 This file will guide the reader through the steps to reproduce the results presented in our paper [**"Exploring Physical Latent Spaces for High-Resolution Flow Restoration"**](https://arxiv.org/abs/2211.11298) presented at *VMV 2023*.
 
+![image](teaser_cg.jpg)
+
 We provide the code and data for the *Karman vortex street* and *forced turbulence* scenarios.
 
 **Warning**: Some configurations (eg: RTX 3000 series) might not work correctly with the setup we are providing.
